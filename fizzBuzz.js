@@ -7,3 +7,6 @@ const fizzBuzz = (num) => {
         return 'Fizz';
     } else return num;
 }
+
+module.exports = fizzBuzz;
+
